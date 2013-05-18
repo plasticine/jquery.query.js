@@ -1,0 +1,10 @@
+{
+  "name": "jquery.query.js",
+  "version": "2.1.7",
+  "main": "jquery.query.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
